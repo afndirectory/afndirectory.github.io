@@ -1,18 +1,6 @@
-# About
-This is a Github pages theme based on Twitter Bootstrap for your Github projects
-# Demo:
-http://robertcedwards.github.io/gh-pages-theme/
+# Austin Free Net Services Directory
 
-# License
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+Austin Free Net is a nonprofit organization that has been working to bridge the digital divide in the Austin area since 1995.
+[More about AFN](http://austinfree.net/about-2/)
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/gpl.html>.
+The Austin Free Net Services Directory is a collection of resources available to impoverished and at-risk people. This site is for use in-office and through mobile for when reps are not able to help right away. It is friendly to the computer illiterate and delivers crucial information to those in need quickly and easily. 
