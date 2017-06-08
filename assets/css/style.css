@@ -1,13 +1,24 @@
+/**
+ * A clean concise theme for your GitHub projects
+ *
+ * Licenced under GPL v3
+ * http://www.gnu.org/licenses/gpl.html
+ **/
+
+body {
+	padding:1%;
+	margin:1%;
+}
 
 #btn-margin{
-
   margin: 10px;
-
 }
 
 .btn{
-
   width: 200px;
-
 }
 
+#btn-padding{
+  position: relative;
+  top: 50%;
+}
