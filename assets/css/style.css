@@ -1,4 +1,10 @@
 
+.map{
+  position: relative;
+  padding-bottom: 90%;
+  height: 0;
+  overflow: hidden;
+}
 
 #btn-padded{
 
