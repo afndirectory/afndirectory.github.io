@@ -1,8 +1,30 @@
+.map{
 
-#btn-margin{
-  margin: 10px;
+  position: relative;
+
+  padding-bottom: 90%;
+
+  height: 0;
+
+  overflow: hidden;
+
 }
 
 .btn{
+
+  margin: 10px;
   width: 250px;
+
+
+
+}
+
+
+
+#contr-padded{
+
+  margin-top: 25px;
+
+  margin-bottom: 25px;
+
 }
