@@ -1,26 +1,8 @@
 
-.map{
-  position: relative;
-  padding-bottom: 90%;
-  height: 0;
-  overflow: hidden;
-}
-
-#btn-padded{
-
+#btn-margin{
   margin: 10px;
-
 }
-
-
 
 .btn{
-
   width: 250px;
-
-}
-
-#contr-padded{
-  margin-top: 25px;
-  margin-bottom: 25px;
 }
